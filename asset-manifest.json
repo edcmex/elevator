@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/elevator/static/css/main.0bab8ea1.chunk.css",
-    "main.js": "/elevator/static/js/main.aa5b511f.chunk.js",
-    "main.js.map": "/elevator/static/js/main.aa5b511f.chunk.js.map",
+    "main.css": "/elevator/static/css/main.f3452851.chunk.css",
+    "main.js": "/elevator/static/js/main.38100028.chunk.js",
+    "main.js.map": "/elevator/static/js/main.38100028.chunk.js.map",
     "runtime-main.js": "/elevator/static/js/runtime-main.6958a26d.js",
     "runtime-main.js.map": "/elevator/static/js/runtime-main.6958a26d.js.map",
     "static/js/2.eb18f630.chunk.js": "/elevator/static/js/2.eb18f630.chunk.js",
     "static/js/2.eb18f630.chunk.js.map": "/elevator/static/js/2.eb18f630.chunk.js.map",
     "index.html": "/elevator/index.html",
-    "precache-manifest.bd1e1f916d3b5809550ca82557fd1d03.js": "/elevator/precache-manifest.bd1e1f916d3b5809550ca82557fd1d03.js",
+    "precache-manifest.b323025d1f703c289a033d6ffd6e5710.js": "/elevator/precache-manifest.b323025d1f703c289a033d6ffd6e5710.js",
     "service-worker.js": "/elevator/service-worker.js",
-    "static/css/main.0bab8ea1.chunk.css.map": "/elevator/static/css/main.0bab8ea1.chunk.css.map",
+    "static/css/main.f3452851.chunk.css.map": "/elevator/static/css/main.f3452851.chunk.css.map",
     "static/js/2.eb18f630.chunk.js.LICENSE.txt": "/elevator/static/js/2.eb18f630.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6958a26d.js",
     "static/js/2.eb18f630.chunk.js",
-    "static/css/main.0bab8ea1.chunk.css",
-    "static/js/main.aa5b511f.chunk.js"
+    "static/css/main.f3452851.chunk.css",
+    "static/js/main.38100028.chunk.js"
   ]
 }
